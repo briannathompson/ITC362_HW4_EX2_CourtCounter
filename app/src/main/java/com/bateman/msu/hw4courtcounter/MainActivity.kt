@@ -33,8 +33,6 @@ class MainActivity : AppCompatActivity() {
 
     }
 
-
-
     /**
      * Increase the score for Team A by 1 point.
      */
